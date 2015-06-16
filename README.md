@@ -1,6 +1,8 @@
 # The-Great-Wave-Caprice
 This is a project for MET EXPO 2015.
 
+![alt text](https://github.com/gracegotlost/The-Great-Wave-Caprice/blob/master/image.jpg "Title")
+
 ## Project Description
 The Great Wave Caprice hopes to challenge the way of appreciating paintings in museums. It intends to bring a different experience by making use of a series of paintings of Mount Fuji in different perspectives to recreate a 3D sculptural projection in compared with the original pieces. Four sides of Mount Fuji will be rear projected on four pieces of tracing paper, and each side of the mountain will move dynamically as one.
 
