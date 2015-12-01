@@ -1,17 +1,63 @@
 # The-Great-Wave-Caprice
-This is a project for MET EXPO 2015.
 
-![alt text](https://github.com/gracegotlost/The-Great-Wave-Caprice/blob/master/image.jpg "Title")
+Exhibited in MET EXPO 2015.
 
-## Project Description
-The Great Wave Caprice hopes to challenge the way of appreciating paintings in museums. It intends to bring a different experience by making use of a series of paintings of Mount Fuji in different perspectives to recreate a 3D sculptural projection in compared with the original pieces. Four sides of Mount Fuji will be rear projected on four pieces of tracing paper, and each side of the mountain will move dynamically as one.
+![alt text](http://payload417.cargocollective.com/1/20/643671/10656609/1-credit_1600_c.jpg "Title")
 
-## Detailed Description
-### Impetus
-As an art amateur willing to explore different way of appreciating paintings and a programmer passionate about physical simulations, I was very thrilled when MediaLab took us to visit the scientific research department working on image layering and color spectrum for the famous painting Great Wave off Kawagana, aka, The Great Wave. I was very impressed by the methods people in this department are using to research on wood block paintings for displaying to the public under the best lighting conditions later. As I got to know more about this piece, I realized that The Great Wave is only one of the thirty six paintings done by Japanese artist Hokusai around 1830s, and the rest of this series, thirty-six views of Mount Fuji, is all about perspectives and narrations of the same historic spot, Mount Fuji. This led me to think: why don’t I put these paintings together so that people can appreciate this series while they are walking around as if there is a real Mount Fuji in the center of that place instead of standing still in front of each painting as traditionally do? I then decided to take this opportunity to experiment dimensions and interactions on paintings of various perspectives in museums.
+The Great Wave Caprice hopes to explore new way of appreciating paintings in the museums. It intends to bring a different experience by making use of a series of paintings of Mount Fuji in different perspectives to recreate a 3D interactive sculptural projection in compared with the original pieces.
 
-### Concept
-Four of thirty six paintings will be selected from this series according to the location of where the artist drew the painting. The Great Wave will be firstly selected as heading “north”, and the rest of selections will be geographically matched to south, east, and west respectively. These four paintings then, will be rear projected on four directions of a traditional Japanese paper lantern. By allowing the audience to walk around this physical 3D object, The Great Wave Caprice hopes to connect the experience of the artist with the audience, and makes them feel like they are traveling in Japan place by place around Mount Fuji. Beside the way of displaying these paintings, The Great Wave Caprice also allows audience to interact with them, more specifically, to make the wave move like real by moving the mouse within the laptop screen that connects the projector. By doing the above, The Great Wave hopes to recreate a physical sculptural projection that connects with the original paintings in the help of digital technologies.
+### "I'm not artist. I don't know how to appreciate those paintings in museums."
 
-For more information please visit:
-https://drive.google.com/open?id=0B46Mtg2MEITEflExM29sbjIwaFNQbndiMUprUTBvN2FWcm1GS2Z2N2Yxekh2X0tUOHlua28&authuser=0
+Among over 6 million visitors to Metropolitan Museum of Art every year, most of them are beginners or amateurs to the world of art. During six months of observation, I found many of them got more attracted to sculptures than paintings since they can walk around and look through different angles. There are artists who stare at specific paintings for a whole day, but for others, why a painting is famous may not seem inviting as if it is famous.
+
+![alt text](http://payload417.cargocollective.com/1/20/643671/10656609/DP141042_1600_c.jpg "Title")
+
+### Met The Great Wave at Scientific Research Department
+
+I was very thrilled when the staff introduced us the technology to conduct research on woodblock paintings for better protection and display. Among these paintings, I can’t take my eyes from The Great Wave. The wave seemed alive to me, and the Mount Fuji balanced the wave so well as if it’s very close to us. That very moment reminded me of the intention of my previous project “[Interactive Image]” - to make image alive.
+
+![alt text](http://payload417.cargocollective.com/1/20/643671/10656609/sample.gif "Title")
+
+### More than just one perspective
+
+As I got to know more of this painting, I fount out The Great Wave is only one among thirty-six views of Mount Fuji, and some of the rest also depict life on rivers or lakes around Mount Fuji.
+
+![alt text](http://payload417.cargocollective.com/1/20/643671/10656609/location_1600_c.jpg "Title")
+
+### This made me wonder
+
+What if I put these paintings on four sides so people can appreciate this series while they are walking around as if there is a real Mount Fuji in the center, at the same time they can interact with these paintings to create waves on top of waves?
+
+### Challenge for The Great Wave Caprice
+
+To think about how to achieve this goal, my head was filled with all kinds of possibilities and restrictions.
+
+1.Four sides of paintings need four displays, either real display or projection.
+2.If it’s real display, what could be the screen? How many displays?
+3.If it’s projection, front or rear projection? What is the material for screen? How many projectors? 
+4.How can I achieve the interaction in four sides?
+5.How much will these cost...
+
+![alt text](http://payload417.cargocollective.com/1/20/643671/10656609/sketch-2_1600_c.jpg "Title")
+
+### How About Making a Cool Structure Using Only One Projector?
+
+Multiple projectors or displays also increase the complexity and cost of other devices. If there could be a cool structure to make one projector possible, the interaction could be done via only one laptop as well. Everything else will be much easier to coordinate, and cost less of course.
+
+![alt text](http://payload417.cargocollective.com/1/20/643671/10656609/structure_1600_c.jpg "Title")
+
+BOOM! An upside down pyramid structure it is!
+This could help split one light beam into four directions to enable the display of four paintings on four sides. The pyramid structure also implies a real mountain in the center. In term of the screen, the tracing paper is way better than a rear projection screen in its feel and price. It also reminds people of the rice paper used in traditional Japanese architecture.
+
+![alt text](http://payload417.cargocollective.com/1/20/643671/10656609/four-1.gif "Title")
+
+With the pyramid structure, the interaction can be done within one laptop screen by mouse hovering. Although it’s not as convenient as the Kinect detection, it reduces the amount of work to connect four Kinect devices with one laptop.
+
+![alt text](http://payload417.cargocollective.com/1/20/643671/10656609/8-loop-white.gif "Title")
+
+### “I feel like I’m in Japan right now and I really walked that far."
+### “It’s amazing, like you’re creating waves on top of waves."
+
+The Great Wave Caprice hopes to enhance visitors’ in-museum experience when they appreciate paintings. It creates an interactive physical projection that connects the original paintings in the help of digital technologies. 
+
+[Interactive Image] : http://www.gracegotlost.com/Interactive-Image
