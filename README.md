@@ -60,4 +60,4 @@ With the pyramid structure, the interaction can be done within one laptop screen
 
 The Great Wave Caprice hopes to enhance visitors’ in-museum experience when they appreciate paintings. It creates an interactive physical projection that connects the original paintings in the help of digital technologies. 
 
-[Interactive Image] : <http://www.gracegotlost.com/Interactive-Image>
+[Interactive Image]: <http://www.gracegotlost.com/Interactive-Image>
